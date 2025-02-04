@@ -4,7 +4,7 @@
  * Description: Auto embed any embbedable content from external URLs into Elementor.
  * Plugin URI:  https://google.com/
  * Version:     1.0.0
- * Author:      Elementor Developer
+ * Author:      Xubix Developer
  * Author URI:  https://google.com/
  * Text Domain: elementor-title-widget
  *

@@ -182,12 +182,6 @@ class Elementor_Title_Widget extends \Elementor\Widget_Base {
       }
 
 
-        // Render the title with correct styling
-     //    printf(
-     //        '<%1$s class="tf--title">%2$s</%1$s>',
-     //        esc_html( $tag ),
-     //        esc_html( $settings['btitle'] )
-     //    );
      printf(
             '<%1$s class="tf--title">%2$s%3$s%4$s</%1$s>',
             esc_html( $tag ),
